@@ -10,16 +10,18 @@
 * 개인 fork뜬 repo의 노트를 colab로 열기<br>
     https://colab.research.google.com/github/{%username}/2019_cau_oss_hackathon/blob/master/hackathon_template.ipynb <br>
     위 url에서 {%username}을 본인 계정 이름으로 변경 후 접속<br>
-    ex)<br>
+    ex) 
     https://colab.research.google.com/github/weenybeenymini/2019_cau_oss_hackathon/blob/master/hackathon_template.ipynb 
 
-* **(중요)** 구글 드라이브에 노트 저장하고 조교와 공유하기<br>
+* 구글 드라이브에 노트 저장하고 조교와 공유하기 **(중요)** <br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/copy_save.png"><br>
     파일 - 드라이브에 사본 저장 클릭<br>
+    
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/rename.png"><br>
     열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>
+    
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
-    우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료하기 
+    우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료하기<br>
      
      
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작하게 됩니다**
@@ -36,7 +38,7 @@
     파일 - github에 사본 저장 을 클릭하면 아래와 같은 창이 뜨는데, 원하는 커밋 메세지 입력 후 확인을 눌러주세요.
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
-* 모델과 가중치를 파일로 저장한 .json, .h5 파일 github에 추가<br>
+* 노트 외 .json, .h5 파일 github에 추가<br>
     주어진 템플렛으로 올바르게 실행을 하면 모델의 정보를 담은 .json, 가중치의 정보를 담은 .h5 파일이 /content에 생성됩니다.
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
     템플렛에도 설명이 되어있지만 **teamXX_...** 형식으로 변경하는 것을 잊지마세요.
