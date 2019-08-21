@@ -14,14 +14,14 @@
     https://colab.research.google.com/github/weenybeenymini/2019_cau_oss_hackathon/blob/master/hackathon_template.ipynb 
 
 * 구글 드라이브에 노트 저장하고 조교와 공유하기 **(중요)** <br>
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/copy_save.png"><br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/copy_save.png"><br>
     
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/rename.png"><br>
     - 열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/rename.png"><br>
     
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
     - 우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료하기<br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
      
      
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작하게 됩니다**
