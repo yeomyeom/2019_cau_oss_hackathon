@@ -5,7 +5,7 @@
 
 * 이 repository를 개인 계정으로 fork 뜨기
     우측 상단에 있는 fork 버튼 클릭, 개인 계정 선택
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/fork_window.png">
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/fork_window.png" width="60%">
     fork로 생성된 git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
     
 * 개인 fork뜬 repo의 노트를 colab로 열기 (1,2 중 택일)
@@ -15,7 +15,7 @@
         
     2. https://colab.research.google.com/ 접속
 좌측 상단 파일 - 노트 열기 -  github 클릭
-<img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/open_note.png">
+<img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/open_note.png" width="60%">
 해당 GitHub URL 혹은 username 입력 후, 엔터 (아이콘 클릭 말고 꼭! 엔터!)
 해당 repo 선택 후 hackathon.ipynb 노트 열기
 
@@ -26,7 +26,7 @@
      
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작하게 됩니다**
 
-<img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/history.png">
+<img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/history.png" width="60%">
 조교가 모든 팀의 노트에 접근이 가능하고, 히스토리 확인 가능한 상태가 됩니다.
 부정행위를 하다 들킨 팀은 수상자 제외 및 실격 처리됩니다.
 
@@ -34,7 +34,7 @@
 
 * 최종 노트 변경 사항을 github에 올리기 (중간중간 업데이트도 가능)
     파일 - github에 사본 저장 
-    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png">
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="60%">
     원하는 커밋메세지를 입력 후 확인
 * 모델과 가중치를 파일로 저장한 json파일과 h5파일도 github에 추가    
     주어진 템플렛으로 실행을 하면 /content 위치에 model.json, model.h5파일이 생성되는데
