@@ -5,6 +5,7 @@
 * 본 GitHub repository를 개인 GitHub 계정으로 fork
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/fork_window.png" width="80%"><br>
     위 사진 같이 우측 상단에 있는 fork 버튼 클릭 후 개인 계정 선택<br>
+    (2인 1팀인 경우, 두 사람 다 fork한 후, 프로젝트 후 제출 할 repo를 하나 선택해주세요)
     fork로 생성된 Git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
     
 * Fork한 repository의 노트를 colab로 열기<br>
@@ -23,11 +24,15 @@
     - 우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
      
-     
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다**
 
+**(2인 1팀인 경우, 각각 컴퓨터로 작업을 하기 위해 두 사람 모두 위의 과정을 진행해주셔야 합니다)**
+
+
 <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/history.png" width="80%">
-부정행위를 방지하기 위해 조교가 모든 팀의 colab 노트에 접근, 히스토리를 확인 가능한 상태로서, 부정행위 적발시 해당 팀은 수상자 제외 및 실격 처리
+부정행위를 방지하기 위해 조교가 모든 팀의 colab 노트에 접근, 히스토리를 확인 가능한 상태로서,
+
+부정행위 적발 시 해당 팀은 수상자 제외 및 실격 처리가 됩니다.
 
 ---
 
