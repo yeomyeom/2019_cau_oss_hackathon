@@ -49,13 +49,11 @@
     모델 구조(model_structure_teamXX.json)<br>
     가중치(model_weight_teamXX.h5)<br>
     컴파일된 모델(model_entire_teamXX.h5) 파일이 /content에 생성됩니다.<br>
-    <br>
-        이 세 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
-        (사진엔 파일이 두 개지만 총 3개의 파일을 올리셔야 하고, 사진과 다른 이름 형식일 수 있음)<br>
-        <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
-        (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
+    이 세 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
+    (사진엔 파일이 두 개지만 총 3개의 파일을 올리셔야 하고, 사진과 파일 이름이 다를 수 있음)<br>
+    (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
     
-    <br>
     - 그 후 fork한 repository에서 우측 Upload files를 클릭 후 다운 받은 파일들을 드래그해 GitHub에 commit<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/upload.png"> <br>
         
