@@ -4,7 +4,6 @@
 
 * 본 GitHub repository를 개인 GitHub 계정으로 fork
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/fork_window.png" width="80%"><br>
-    <br>
     - 위 사진 같이 우측 상단에 있는 fork 버튼 클릭 후 개인 계정 선택<br>
     (2인 1팀인 경우, 두 사람 다 fork한 후, 프로젝트 후 제출 할 repo를 하나 선택해주세요)<br>
     fork로 생성된 Git repo는 추후 전체 팀 파일 관리, 수상자 코드 공개 등에 사용 될 예정입니다.
@@ -29,7 +28,6 @@
     <br>
      
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다**
-
 **(2인 1팀인 경우, 각각 컴퓨터로 작업을 하기 위해 두 사람 모두 위의 과정을 진행해주셔야 합니다)**
 
 
@@ -46,9 +44,13 @@
     "파일 -> GitHub에 사본 저장"을 클릭하면 아래와 같은 창을 확인할 수 있으며, 원하는 커밋 메세지 입력 후 확인
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
-* 소스코드 외 모델 구조, weight, 전체 모델 파일 (.json, .h5) 제출<br>
-    - 주어진 템플릿으로 올바르게 실행을 하면 모델의 정보를 담은 .json, 가중치의 정보를 담은 .h5 파일이 /content에 생성됩니다.<br>
-    이 두 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
+* 소스코드 외 모델 구조, weight, 컴파일된 모델 파일 (.json, .h5) 제출<br>
+    - 주어진 템플릿으로 올바르게 실행을 하면<br>
+    모델 구조(model_structure_teamXX.json)<br>
+    가중치(model_weight_teamXX.h5)<br>
+    컴파일된 모델(model_entire_teamXX.h5) 파일이 /content에 생성됩니다.<br>
+    이 세 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
+    (사진엔 파일이 두 개지만 총 3개의 파일을 올리셔야 하고, 사진과 다른 이름 형식일 수 있음)<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
     (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
     
