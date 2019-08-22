@@ -23,7 +23,6 @@
     - 열린 사본 노트 이름을 더블클릭하고 **hackathon_teamXX** 형식으로 이름 변경<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/rename.png"><br>
     <br>
-        + 수정 - 노트 설정 - 하드웨어 가속기 GPU 설정
     
     - 우측 상단에 있는 공유 버튼 클릭 -> 조교 메일 주소 : cau.oss.hackathon.ta@gmail.com 입력하고 완료<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
