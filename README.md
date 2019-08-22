@@ -32,9 +32,7 @@
 
 
 <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/history.png" width="80%">
-부정행위를 방지하기 위해 조교가 모든 팀의 colab 노트에 접근, 히스토리를 확인 가능한 상태 입니다.
-
-부정행위 적발 시 해당 팀은 수상자 제외 및 실격 처리가 됩니다.
+부정행위를 방지하기 위해 조교가 모든 팀의 colab 노트에 접근, 히스토리를 확인 가능한 상태로서, 부정행위 적발시 해당 팀은 수상자 제외 및 실격 처리
 
 ---
 
