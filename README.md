@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
 * 소스코드 외 모델 구조, weight, 전체 모델 파일 (.json, .h5) 제출<br>
-    주어진 템플릿으로 올바르게 실행을 하면 모델의 정보를 담은 .json, 가중치의 정보를 담은 .h5 파일이 /content/saved_files에 생성됩니다.
+    주어진 템플릿으로 올바르게 실행을 하면 모델의 정보를 담은 .json, 가중치의 정보를 담은 .h5 파일이 /content에 생성됩니다.
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
     (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
     
