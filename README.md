@@ -55,6 +55,7 @@
         <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
         (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
     
+    <br>
     - 그 후 fork한 repository에서 우측 Upload files를 클릭 후 다운 받은 파일들을 드래그해 GitHub에 commit<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/upload.png"> <br>
         
