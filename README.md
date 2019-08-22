@@ -16,6 +16,7 @@
 
 * 구글 드라이브에 노트 저장하고 조교와 공유 **(중요)** <br>
     - 파일 - 드라이브에 사본 저장 클릭<br>
+        (사본을 저장해야 편집하고 공유가 가능합니다. 생성한 사본에서 작업해주세요.)
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/copy_save.png"><br>
     <br>
     
@@ -30,6 +31,7 @@
 **위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다** <br>
 **(2인 1팀인 경우, 각각 컴퓨터로 작업을 하기 위해 두 사람 모두 위의 과정을 진행해주셔야 합니다)**
 
+* 수정 - 노트 설정 - 하드웨어 가속기 GPU 설정
 
 <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/history.png" width="80%">
 부정행위를 방지하기 위해 조교가 모든 팀의 colab 노트에 접근, 히스토리를 확인 가능한 상태로서, 부정행위 적발시 해당 팀은 수상자 제외 및 실격 처리
