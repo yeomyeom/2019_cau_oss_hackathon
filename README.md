@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/share.png">
     <br>
      
-**위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다**
+**위의 일련의 과정들을 모든 팀이 진행하여야 해커톤 개발을 시작합니다** <br>
 **(2인 1팀인 경우, 각각 컴퓨터로 작업을 하기 위해 두 사람 모두 위의 과정을 진행해주셔야 합니다)**
 
 
@@ -49,6 +49,7 @@
     모델 구조(model_structure_teamXX.json)<br>
     가중치(model_weight_teamXX.h5)<br>
     컴파일된 모델(model_entire_teamXX.h5) 파일이 /content에 생성됩니다.<br>
+    <br>
     이 세 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
     (사진엔 파일이 두 개지만 총 3개의 파일을 올리셔야 하고, 사진과 다른 이름 형식일 수 있음)<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
