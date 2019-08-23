@@ -43,20 +43,21 @@
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
 * 소스코드 외 모델 구조, weight, 컴파일된 모델 파일 (.json, .h5) 제출<br>
-    - 주어진 템플릿으로 올바르게 실행을 하면 데이터 셋 별로<br>
+    - 파일 다운로드
+    주어진 템플릿으로 올바르게 실행을 하면 데이터 셋 별로<br>
     모델 구조(model_structure_data_type_teamXX.json)<br>
     가중치(model_weight_data_type_teamXX.h5)<br>
-    컴파일된 모델(model_entire_data_type_teamXX.h5) 파일이 **/content**에 생성<br>
+    컴파일된 모델(model_entire_data_type_teamXX.h5) 파일이 **/content**에 생성됩니다<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
     우클릭 - 다운로드 (**team_name 변수** 변경하는 것을 잊지마세요.)<br>
     
-    - 다운로드 된 파일을 데이터 셋에 따라 폴더로 구분<br>
+    - 다운로드 된 파일을 데이터 셋에 따라 폴더로 구분 **(중요)**<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/folder.png"> <br>
     
-    - GitHub에 commit<br>
+    - 파일 GitHub에 추가<br>
     fork한 repository에서 우측 Upload files를 클릭
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/upload.png"> <br>
-    두 폴더를 드래그해 추가<br>
+    두 폴더를 드래그해 추가하고 commit<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/drag.png"> <br>
     (파일 크키가 커서 올라가지 않는 경우엔, Git command를 사용해 올려주세요.)
         
@@ -64,7 +65,7 @@
         
 ### 최종 제출물
 
-***소스코드 (hackathon_teamXX.ipynb), 데이터 셋 별 모델 구조 (model_structure_teamXX.json), 모델 weight(model_weight_teamXX.h5), 컴파일된 모델 (model_entire_teamXX.h5)**
+**소스코드 (hackathon_teamXX.ipynb), 데이터 셋 별 모델 구조 (model_structure_teamXX.json), 모델 weight(model_weight_teamXX.h5), 컴파일된 모델 (model_entire_teamXX.h5)**
 
 개인 repo 상태과 다음과 같아야 함<br>
 <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/final.png"> <br>
