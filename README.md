@@ -43,20 +43,36 @@
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
 * 소스코드 외 모델 구조, weight, 컴파일된 모델 파일 (.json, .h5) 제출<br>
-    - 주어진 템플릿으로 올바르게 실행을 하면<br>
-    모델 구조(model_structure_teamXX.json)<br>
-    가중치(model_weight_teamXX.h5)<br>
-    컴파일된 모델(model_entire_teamXX.h5) 파일이 /content에 생성됩니다.<br>
+    - 주어진 템플릿으로 올바르게 실행을 하면 데이터 셋 별로<br>
+    모델 구조(model_structure_data_type_teamXX.json)<br>
+    가중치(model_weight_data_type_teamXX.h5)<br>
+    컴파일된 모델(model_entire_data_type_teamXX.h5) 파일이 **/content**에 생성<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
-    이 세 파일을 더블클릭 또는 우클릭 - 다운로드 방법으로 다운로드<br>
-    (사진엔 파일이 두 개지만 총 3개의 파일을 올리셔야 하고, 사진과 파일 이름이 다를 수 있음)<br>
-    (템플릿에도 설명이 되어있지만 **..._teamXX...** 형식으로 변경하는 것을 잊지마세요.)
+    우클릭 - 다운로드 (**team_name 변수** 변경하는 것을 잊지마세요.)<br>
     
-    - 그 후 fork한 repository에서 우측 Upload files를 클릭 후 다운 받은 파일들을 드래그해 GitHub에 commit<br>
+    - 다운로드 된 파일을 데이터 셋에 따라 폴더로 구분<br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/folder.png"> <br>
+    
+    - GitHub에 commit<br>
+    fork한 repository에서 우측 Upload files를 클릭
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/upload.png"> <br>
+    두 폴더를 드래그해 추가<br>
+    <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/drag.png"> <br>
+    (파일 크키가 커서 올라가지 않는 경우엔, Git command를 사용해 올려주세요.)
         
 ---
         
-**최종 제출물 : 소스코드 (hackathon_teamXX.ipynb), 모델 구조 (model_structure_teamXX.json), 모델 weight(model_weight_teamXX.h5), 컴파일된 모델 (model_entire_teamXX.h5)**
+### 최종 제출물
+
+***소스코드 (hackathon_teamXX.ipynb), 데이터 셋 별 모델 구조 (model_structure_teamXX.json), 모델 weight(model_weight_teamXX.h5), 컴파일된 모델 (model_entire_teamXX.h5)**
+
+개인 repo 상태과 다음과 같아야 함<br>
+<img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/final.png"> <br>
 
 **(중요) 최종 제출물이 가장 최신 버전인지, GitHub에 잘 올라가졌는지 다시 한번 확인 부탁드립니다.**
+
+---
+
+### 참고자료
+
+튜토리얼 발표자료 : https://drive.google.com/file/d/1Di4hF59x6gqOTcFOoJMj6ZNvgWvGvQAo/view?usp=sharing
