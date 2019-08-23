@@ -43,15 +43,15 @@
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/push_git.png" width="80%">
     
 * 소스코드 외 모델 구조, weight, 컴파일된 모델 파일 (.json, .h5) 제출<br>
-    - 파일 다운로드
+    - 파일 다운로드<br>
     주어진 템플릿으로 올바르게 실행을 하면 데이터 셋 별로<br>
-    모델 구조(model_structure_data_type_teamXX.json)<br>
-    가중치(model_weight_data_type_teamXX.h5)<br>
+    모델 구조(model_structure_data_type_teamXX.json),<br>
+    가중치(model_weight_data_type_teamXX.h5),<br>
     컴파일된 모델(model_entire_data_type_teamXX.h5) 파일이 **/content**에 생성됩니다<br>
+    우클릭 - 다운로드 로 위에 나열된 모든 파일을 다운<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/file.png">  <br>
-    우클릭 - 다운로드 (**team_name 변수** 변경하는 것을 잊지마세요.)<br>
-    
-    - 다운로드 된 파일을 데이터 셋에 따라 폴더로 구분 **(중요)**<br>
+    다운로드 된 파일을 데이터 셋에 따라 폴더로 구분<br>
+    ( + 각 폴더에 3개의 파일이 있어야 함 )
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/folder.png"> <br>
     
     - 파일 GitHub에 추가<br>
