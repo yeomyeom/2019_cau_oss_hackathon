@@ -53,7 +53,7 @@
     ( + 각 폴더에 3개의 파일이 있어야 함 )<br>
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/folder.png"> <br>
     
-    - 파일 GitHub에 추가<br>
+    - 파일들을 GitHub에 추가<br>
     fork한 repository에서 우측 Upload files를 클릭
     <img src="https://raw.githubusercontent.com/cauosshackathonta/2019_cau_oss_hackathon/master/image/upload.png"> <br>
     두 폴더를 드래그해 추가하고 commit<br>
